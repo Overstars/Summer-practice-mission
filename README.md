@@ -35,5 +35,5 @@
 | HDOJHDOJ1728逃离迷宫                      | 7/20 | DFS      |      |
 | HDOJ1108最小公倍数                        | 7/20 | 数学,lcm | 水题 |
 | HDOJ2138How many prime numbers            | 7/20 | 素数判断 | 水题 |
-| HDOJ1052Tian Ji -- The Horse Racin        | 7/20 | 贪心     |      |
-|                                           |      |          |      |
+| HDOJ1052Tian Ji -- The Horse Racing(贪心) | 7/20 | 贪心     |      |
+| HDOJ1062Text Reverse                      | 7/21 | 字符串   | 水题 |
