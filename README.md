@@ -66,25 +66,32 @@
 
 ## 第二周
 
-| 内容                                | 日期 | 知识点        | 补充                                          |
-| ----------------------------------- | ---- | ------------- | --------------------------------------------- |
-| HDOJ1495非常可乐                    | 7/29 | BFS           | 倒水问题                                      |
-| HDOJ1049Climbing Worm               | 7/29 | 模拟          | 水题                                          |
-| HDOJ1254推箱子                      | 7/29 | BFS+BFS       | おもしろい                                    |
-| HDOJ2612Find a way                  | 7/30 | 分别两次BFS   | 和地图最短路很类似                            |
-| HDOJ2544最短路                      | 7/30 | 最短路        | dijkstra裸题                                  |
-| HDOJ2546饭卡                        | 7/30 | DP            | 和HDOJ2103很像                                |
-| HDOJ2199Can you solve this equation | 7/31 | 二分查找      |                                               |
-| HDOJ1041Computer Transformation     | 7/31 | 递推,大数     | 暂时没过，大数还不会                          |
-| POJ1915Knight Moves                 | 7/31 | BFS           | POJ判题真神奇                                 |
-| POJ1915Knight Moves                 | 8/1  | 双向BFS       | 又用双向BFS写了一遍，交替逐层扩展实现有点困难 |
-| HDOJ1078FatMouse and Cheese         | 8/1  | 记忆化搜索    |                                               |
-| HDOJ1024Max Sum Plus Plus           | 8/2  | DP,滚动数组   | DP好难啊                                      |
-| HDOJ1251统计难题                    | 8/2  | 字符串查找    | HDOJ炸了时候等判题随手开的题,但是写法很神奇   |
-| HDOJ2203亲和串                      | 8/2  | KMP           |                                               |
-| HDOJ2569彼岸                        | 8/3  | 递推          |                                               |
-| HDOJ4004The Frog's Games            | 8/3  | 贪心,二分     | 二分查找边界判断困难                          |
-| POJ3273Monthly Expense              | 8/3  | 贪心,二分     | 边界判断好玄学啊                              |
-| HDOJ2136Largest prime factor        | 8/3  | 素数位置,打表 |                                               |
-| HDOJ1257最少拦截系统                | 8/3  | 贪心          | 我居然到现在还在写这种水题                    |
-| POJ1321棋盘问题                     | 8/3  | DFS           |                                               |
+| 内容                                 | 日期 | 知识点        | 补充                                          |
+| ------------------------------------ | ---- | ------------- | --------------------------------------------- |
+| HDOJ1495非常可乐                     | 7/29 | BFS           | 倒水问题                                      |
+| HDOJ1049Climbing Worm                | 7/29 | 模拟          | 水题                                          |
+| HDOJ1254推箱子                       | 7/29 | BFS+BFS       | おもしろい                                    |
+| HDOJ2612Find a way                   | 7/30 | 分别两次BFS   | 和地图最短路很类似                            |
+| HDOJ2544最短路                       | 7/30 | 最短路        | dijkstra裸题                                  |
+| HDOJ2546饭卡                         | 7/30 | DP            | 和HDOJ2103很像                                |
+| HDOJ2199Can you solve this equation  | 7/31 | 二分查找      |                                               |
+| HDOJ1041Computer Transformation      | 7/31 | 递推,大数     | 暂时没过，大数还不会                          |
+| POJ1915Knight Moves                  | 7/31 | BFS           | POJ判题真神奇                                 |
+| POJ1915Knight Moves                  | 8/1  | 双向BFS       | 又用双向BFS写了一遍，交替逐层扩展实现有点困难 |
+| HDOJ1078FatMouse and Cheese          | 8/1  | 记忆化搜索    |                                               |
+| HDOJ1024Max Sum Plus Plus            | 8/2  | DP,滚动数组   | DP好难啊                                      |
+| HDOJ1251统计难题                     | 8/2  | 字符串查找    | HDOJ炸了时候等判题随手开的题,但是写法很神奇   |
+| HDOJ2203亲和串                       | 8/2  | KMP           |                                               |
+| HDOJ2569彼岸                         | 8/3  | 递推          |                                               |
+| HDOJ4004The Frog's Games             | 8/3  | 贪心,二分     | 二分查找边界判断困难                          |
+| POJ3273Monthly Expense               | 8/3  | 贪心,二分     | 边界判断好玄学啊                              |
+| HDOJ2136Largest prime factor         | 8/3  | 素数位置,打表 |                                               |
+| HDOJ1257最少拦截系统                 | 8/3  | 贪心          | 我居然到现在还在写这种水题                    |
+| POJ1321棋盘问题                      | 8/3  | DFS           |                                               |
+| POJ2251Dungeon Master                | 8/4  | BFS           | 水题                                          |
+| POJ3278Catch That Cow                | 8/4  | BFS,蛮水的    |                                               |
+| POJ1426Find The Multiple             | 8/4  | DFS           |                                               |
+| HDOJ1029Ignatius and the Princess IV | 8/4  |               | kuangbin专题为什么有这么水的题                |
+|                                      |      |               |                                               |
+|                                      |      |               |                                               |
+|                                      |      |               |                                               |
