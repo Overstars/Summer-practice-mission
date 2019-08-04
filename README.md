@@ -92,6 +92,4 @@
 | POJ3278Catch That Cow                | 8/4  | BFS,蛮水的    |                                               |
 | POJ1426Find The Multiple             | 8/4  | DFS           |                                               |
 | HDOJ1029Ignatius and the Princess IV | 8/4  |               | kuangbin专题为什么有这么水的题                |
-|                                      |      |               |                                               |
-|                                      |      |               |                                               |
-|                                      |      |               |                                               |
+| HDOJ1711Number Sequence              | 8/4  | KMP           | getnext写错了改了好一会= =                    |
