@@ -93,3 +93,29 @@
 | POJ1426Find The Multiple             | 8/4  | DFS           |                                               |
 | HDOJ1029Ignatius and the Princess IV | 8/4  |               | kuangbin专题为什么有这么水的题                |
 | HDOJ1711Number Sequence              | 8/4  | KMP           | getnext写错了改了好一会= =                    |
+
+## 第三周
+
+| 内容                                                         | 日期 | 知识点              | 补充                                         |
+| ------------------------------------------------------------ | ---- | ------------------- | -------------------------------------------- |
+| POJ3126Prime Path                                            | 8/5  | BFS                 |                                              |
+| HDOJ6629string matching                                      | 8/6  | 扩展KMP             | 模板题,只用求出next数组就行                  |
+| POJ3087Shuffle'm Up                                          | 8/6  | 模拟,STL应用        |                                              |
+| POJ3414Pots                                                  | 8/6  | BFS,路径输出        | 还行                                         |
+| [**POJ 3984**](https://vjudge.net/problem/POJ-3984) 迷宫问题 | 8/6  | BFS,路径输出        | POJ数据太弱,不过这题地图搜索路径应该比较好写 |
+| HDOJ3746Cyclic Nacklace                                      | 8/6  | KMP的next数组的应用 | 最小循环串始终为len-nex[len-1]，有空写下博客 |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+|                                                              |      |                     |                                              |
+
+
