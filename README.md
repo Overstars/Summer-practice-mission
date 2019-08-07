@@ -101,9 +101,12 @@
 | POJ3126Prime Path                                            | 8/5  | BFS                 |                                              |
 | HDOJ6629string matching                                      | 8/6  | 扩展KMP             | 模板题,只用求出next数组就行                  |
 | POJ3087Shuffle'm Up                                          | 8/6  | 模拟,STL应用        |                                              |
-| POJ3414Pots                                                  | 8/6  | BFS,路径输出        | 还行                                         |
+| POJ3414Pots                                                  | 8/6  | BFS,路径输出        | 还行，比第一次写BFS路径输出时理解清晰了不少  |
 | [**POJ 3984**](https://vjudge.net/problem/POJ-3984) 迷宫问题 | 8/6  | BFS,路径输出        | POJ数据太弱,不过这题地图搜索路径应该比较好写 |
 | HDOJ3746Cyclic Nacklace                                      | 8/6  | KMP的next数组的应用 | 最小循环串始终为len-nex[len-1]，有空写下博客 |
+| POJ2387Til the Cows Come Home                                | 8/7  | 最短路,裸题         |                                              |
+| POJ2253Frogger                                               | 8/7  | 最短路变形          | 没做完，待做                                 |
+| HDOJ2181哈密顿绕行世界问题                                   | 8/7  | DFS,素数环问题      |                                              |
 |                                                              |      |                     |                                              |
 |                                                              |      |                     |                                              |
 |                                                              |      |                     |                                              |
@@ -114,8 +117,3 @@
 |                                                              |      |                     |                                              |
 |                                                              |      |                     |                                              |
 |                                                              |      |                     |                                              |
-|                                                              |      |                     |                                              |
-|                                                              |      |                     |                                              |
-|                                                              |      |                     |                                              |
-
-
