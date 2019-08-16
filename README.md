@@ -131,8 +131,8 @@
 | POJ2421Constructing Roads               | 8/14 | 最小生成树                | 稀疏图,而且边没给出,prim算法                   |
 | HDOJ1069Monkey and Banana               | 8/15 | 位运算，二进制状压DP      | 好难啊，看了别人的博客半天才想通（是真的半天） |
 | HDOJ1331Function Run Fun                | 8/16 | 记忆化递归                | 这道题我五个月之前没写出来                     |
-|                                         |      |                           |                                                |
-|                                         |      |                           |                                                |
+| HDOJ1176免费馅饼                        | 8/16 | DP                        | 这个还可以                                     |
+| POJ2406Power Strings                    | 8/16 | KMP                       | 最小重复子串应用                               |
 |                                         |      |                           |                                                |
 |                                         |      |                           |                                                |
 |                                         |      |                           |                                                |
